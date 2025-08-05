@@ -12,7 +12,7 @@ O projeto conecta teoria e prática de modo acessível, guiando os alunos por to
 
 | Camada   | Ferramenta              | Papel no projeto                                                 |
 | -------- | ----------------------- | ---------------------------------------------------------------- |
-| **Markup**  | HTML5                  | Estrutura semântica das páginas                                  |
+| **Marcação**  | HTML5                  | Estrutura semântica das páginas                                  |
 | **Estilo**  | CSS3                   | Layout responsivo e identidade visual                            |
 | **Repositório** | Git + GitHub          | Controle de versão e integração com Render                       |
 | **Hospedagem**  | Render.com (Static Site) | HTTPS automático e *deploy* contínuo                 |
