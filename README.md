@@ -28,4 +28,4 @@ Este projeto é livre, permitindo a utilização e modificação por parte dos a
 >“Você tem uma chance de usar a liberdade que é a tua para construir um cenário de vida que te seja potencializador.” - Clóvis de Barros Filho
 
 ### Créditos
-![html5up.net](html5up.net) | Dopetrope
+<a src="html5up.net">html5up.net</a> | Dopetrope
