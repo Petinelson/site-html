@@ -23,7 +23,7 @@ O projeto conecta teoria e prática de modo acessível, guiando os alunos por to
 
 Este projeto é livre, permitindo a utilização e modificação por parte dos alunos e interessados em desenvolvimento de aplicações web.
 
-## Estrutura do repositório
+## Reflexão
 
 >“Você tem uma chance de usar a liberdade que é a tua para construir um cenário de vida que te seja potencializador.” - Clóvis de Barros Filho
 
